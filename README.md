@@ -1,2 +1,4 @@
 # Security-using-radio-frequency-
-This project is simple one based on the demostration of how a radio frequency technology can be used in for security purposes.
+This project is a simple one, demonstrating how radio frequency technology can be used for security purposes such as indoor locking mechanisms. 
+
+
